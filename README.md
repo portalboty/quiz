@@ -1,2 +1,2 @@
 # quiz
-bla bla
+Git is gUt
